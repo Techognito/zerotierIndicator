@@ -1,7 +1,7 @@
 # Zerotier KDE Widget  
 ## This Widget Shows Zerotier Network Members
 #### I am trying to get this ported to plasma 6, but I am not a developer and learning takes time. if anyone wants to help out feel free to send PR
-#### 2024-08-16
+#### -Techognito (2024-08-16)
 
 ## Features (V1.1)
 - Show online member count on icon
